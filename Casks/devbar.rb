@@ -1,6 +1,6 @@
 cask "devbar" do
   version "0.1.0"
-  sha256 "6c3b84170f4d3d7706af2c622584af45e2c9a2466bac5a5e7f761262fae557e3"
+  sha256 "480e265f2f768e6d90801344200127b2c2b4355573e2721eb810e99863beb51e"
 
   url "https://github.com/kv5t/devbar/releases/download/v0.1.0/DevBar-0.1.0.dmg"
   name "DevBar"
